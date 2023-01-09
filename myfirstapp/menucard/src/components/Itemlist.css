@@ -1,0 +1,27 @@
+.Itemlist{
+    color: black;
+    text-align : center;
+    font-size: "1000px";  
+    background-image: url("https://t4.ftcdn.net/jpg/03/11/85/99/240_F_311859985_75qHKiJ77TGhd5aGmHNoUZPsdmbWWo3T.jpg");
+
+/*background-repeat: no-repeat;*/
+/*background-position: center;*/
+
+background-size: cover;
+}
+table {
+    
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+ 
+tr:hover {background-color: #D6EEEE;}

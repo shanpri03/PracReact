@@ -1,0 +1,38 @@
+.Plce{
+    color: black;
+    text-align : center;
+    font-size: "1000px";  
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg");
+
+/*background-repeat: no-repeat;*/
+/*background-position: center;*/
+
+background-size: cover;
+}
+.Plce1{
+    color: black;
+    text-align : left;
+    font-size: "1000px";  
+    background-image: url("https://thumbs.dreamstime.com/b/travel-blogger-france-paris-diary-writing-concept-88351875.jpg");
+
+/*background-repeat: no-repeat;*/
+/*background-position: center;*/
+
+background-size: cover;
+}
+.Place1:hover {
+    opacity: 0.7;
+}
+.Descpic{
+    color: black;
+    text-align : left;
+    text-justify: auto;
+
+    font-size: "1000px";  
+    background-image: url("https://i.pinimg.com/564x/33/d0/a8/33d0a824fa331f551e400368ac57f87e.jpg");
+
+background-repeat: no-repeat;
+background-position: center;
+
+background-size: cover;
+}

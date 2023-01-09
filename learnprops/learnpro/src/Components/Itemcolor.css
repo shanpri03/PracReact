@@ -1,0 +1,15 @@
+.veg {
+    color: green;
+font-size: x-large;
+font-style:  bold ;
+
+}
+.non-veg {
+    color: red;
+    font-size: x-large;
+    font-style: bold ;
+}
+.a:hover {
+    background-color: yellow;
+  }
+ 
